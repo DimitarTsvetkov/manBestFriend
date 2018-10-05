@@ -1,0 +1,80 @@
+body {
+    color: #14fe17;
+    background: #272b23;
+
+}
+
+ul > li.nav-item > a.nav-link, ul > li.navbar-item.active > a.nav-link {
+    color: #14fe17 !important;
+
+}
+
+.mainFooter {
+    position: fixed;
+    bottom: 0px;
+    width: calc(100% - 20px);
+    margin: 10px;
+
+}
+
+.center-image img {
+    margin: auto;
+    position: relative;
+    display: block;
+    max-height: 300px;
+    margin-top: 100px;
+
+}
+
+.bodySvg {
+    margin: 0;
+    padding: 0;
+    background: #000000;
+}
+
+.entryLink {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 24px;
+    letter-spacing: 4px;
+    color: #ffffff;
+    text-decoration: none;
+
+}
+
+a svg,
+a svg rect {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    fill: transparent;
+
+}
+
+a svg rect {
+    stroke: #00e2ff;
+    stroke-width: 4;
+    transition: 2s;
+    stroke-dasharray: 60 200;
+    stroke-dashoffset: 320;
+
+}
+
+a:hover svg rect {
+    stroke: #17ff52;
+    stroke-dasharray: 200 60;
+    stroke-dashoffset: 0;
+
+}
+
+
