@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e52244b-2914-47ac-860b-f82c0cd37dd8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/galerry.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/css/myCss.css" afterPath="$PROJECT_DIR$/css/myCss.css" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -192,7 +189,7 @@
       <workItem from="1538713000619" duration="2705000" />
       <workItem from="1538716084446" duration="796000" />
       <workItem from="1538897843654" duration="597000" />
-      <workItem from="1538910930860" duration="16809000" />
+      <workItem from="1538910930860" duration="16853000" />
     </task>
     <task id="LOCAL-00001" summary="adding styles and borders">
       <created>1538913614017</created>
@@ -201,11 +198,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538913614017</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding new pages">
+      <created>1538943482178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1538943482178</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43535000" />
+    <option name="totallyTimeSpent" value="43579000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2092" extended-state="6" />
@@ -264,7 +268,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding styles and borders" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding styles and borders" />
+    <MESSAGE value="adding new pages" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding new pages" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
